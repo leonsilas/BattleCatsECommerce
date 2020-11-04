@@ -26,6 +26,11 @@ h1, h2 {
 h1 {
   color: rgb(61, 61, 61);
   font-family: 'Square';
+  font-size: 46px;
+}
+
+h2 {
+  font-size: 32px;
 }
 
 a {
@@ -35,6 +40,7 @@ a {
 b, strong {
   font-weight: 600;
 }
+
 
 /* HEADER */
 .header {
@@ -110,6 +116,11 @@ b, strong {
   top: 0;
   left: 0;
   z-index: 3;
+  margin: 0 80px;
+}
+
+.banner1 > .bannertext1 > p:last-of-type {
+  margin-bottom: 40px;
 }
 
 /* BANNERS */
@@ -131,12 +142,6 @@ b, strong {
   filter: blur(5px);
   transform: scale(1.1);
 }
-
-/*.banners > img:nth-of-type(2) {
-  transform: translateY(60px);
-  height: 50vh;
-  z-index: 2;
-}*/
 
 .banners > img:nth-of-type(2) {
   object-fit: cover;
