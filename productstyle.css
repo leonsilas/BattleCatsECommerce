@@ -66,6 +66,10 @@ hr {
 }
 
 /* PRODUCT ICONS */
+.product-icons > ul {
+  margin: 0 -2em;
+}
+
 .product-icons > ul li {
   list-style-type: none;
   display: inline-block;
@@ -75,6 +79,15 @@ hr {
 .product-icons figure {
   margin-top: 5px;
   cursor: pointer;
+}
+
+figure img {
+  vertical-align: top;
+}
+
+figure figcaption {
+  padding-top: 30px;
+  text-align: center;
 }
 
 .product-icons > ul li img {
