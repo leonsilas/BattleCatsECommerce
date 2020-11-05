@@ -1,5 +1,4 @@
 /* CORE */
-
 h1 {
   margin: -10px 0 -14px -6px;
   font-size: 30px;
@@ -64,8 +63,6 @@ hr {
   background-image: url("whitebg.jpg");
   background-size: 125% 100%;
   position: relative;
-  transform: translateY(-60px);
-  z-index: -1;
 }
 
 /* PRODUCT ICONS */
