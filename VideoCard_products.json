@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "5001"
+      },
+      "fields": {
+        "title": "MSI TWIN FROZER",
+        "price": 329.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5002"
+      },
+      "fields": {
+        "title": "GIGABYTE WINDFORCE OC",
+        "price": 259.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5003"
+      },
+      "fields": {
+        "title": "EVGA SC GAMING ACX 3.0 BLACK EDITION",
+        "price": 609.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5004"
+      },
+      "fields": {
+        "title": "ASUS STRIX GAMING OC",
+        "price": 1499.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5005"
+      },
+      "fields": {
+        "title": "MSI VENTUS OC",
+        "price": 339.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5006"
+      },
+      "fields": {
+        "title": "ASUS STRIX GAMMING OC",
+        "price": 1899.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5007"
+      },
+      "fields": {
+        "title": "GIGABYTE GAMING",
+        "price": 449.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5008"
+      },
+      "fields": {
+        "title": "NVIDIA FOUNDERS EDITION",
+        "price": 699.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc8.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5009"
+      },
+      "fields": {
+        "title": "NVIDIA FOUNDERS EDITION",
+        "price": 526.98,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc9.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5010"
+      },
+      "fields": {
+        "title": "SAPPHIRE PULSE",
+        "price": 399.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/vc10.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

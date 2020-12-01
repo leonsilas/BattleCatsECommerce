@@ -3,29 +3,29 @@
 
 <div class ="div" >
 <a><img src="whiteLogoalt.png" alt="BattleCat Logo" onclick=window.location="index.html"></a>
-Get a Great Deal on Cases
+Get a Great Deal on Keyboards
 </div>
 
 <?php
-
 include_once 'conn.php';
 
-$sql = "SELECT * FROM Cases;";
+$sql = "SELECT * FROM Keyboard;";
 $result = sqlsrv_query($conn,$sql);
 $i=1;
-
+	
 	while($row = sqlsrv_fetch_array($result,2)){
 ?>		
-		<div class="ItemData" id="<?php echo $i ?>" ><br>
-	    <h4> Item Number : <?php echo $row['ID']; ?></h4>
+		<div class="ItemData" id="<?php echo $i ?>" >
+		<br><h4> Item Number : <?php echo $row['ID']; ?></h4>
 		<h4> Manufacturer : <?php echo $row['Manufacturer']; ?></h4>
-		<h4> Case Type : <?php echo $row['Case_Type']; ?></h4>
-		<h4> Side Panel : <?php echo $row['Side_Panel']; ?></h4>
-		<h4> HDD/SDD Bays : <?php echo $row['HDD_SDD_Bays']; ?></h4>
+		<h4> Style : <?php echo $row['Style']; ?></h4>
+		<h4> Switch Type : <?php echo $row['Switch_Type']; ?></h4>
+		<h4> Backlit : <?php echo $row['Backlit']; ?></h4>
+		<h4> Tenkeyless : <?php echo $row['Tenkeyless']; ?></h4>
+		<h4> Connection Type : <?php echo $row['Connection_Type']; ?></h4>
 		<h4> Price : <?php echo $row['Price'] = sprintf("$%.02f",$row['Price']); ?></h4>
-		<h4> Quantity : <?php echo $row['Quantity']; ?></h4>
-		<br><br>
-		</div>
+	    <h4> Quantity : <?php echo $row['Quantity']; ?></h4>
+		<br><br></div>
 <?php
 	$i++;
 	}

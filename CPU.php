@@ -3,25 +3,26 @@
 
 <div class ="div" >
 <a><img src="whiteLogoalt.png" alt="BattleCat Logo" onclick=window.location="index.html"></a>
-Get a Great Deal on Cases
+Get a Great Deal on CPUs
 </div>
 
 <?php
-
 include_once 'conn.php';
 
-$sql = "SELECT * FROM Cases;";
+$sql = "SELECT * FROM CPU;";
 $result = sqlsrv_query($conn,$sql);
 $i=1;
-
+	
 	while($row = sqlsrv_fetch_array($result,2)){
-?>		
-		<div class="ItemData" id="<?php echo $i ?>" ><br>
-	    <h4> Item Number : <?php echo $row['ID']; ?></h4>
-		<h4> Manufacturer : <?php echo $row['Manufacturer']; ?></h4>
-		<h4> Case Type : <?php echo $row['Case_Type']; ?></h4>
-		<h4> Side Panel : <?php echo $row['Side_Panel']; ?></h4>
-		<h4> HDD/SDD Bays : <?php echo $row['HDD_SDD_Bays']; ?></h4>
+?>
+		<div class="ItemData" id="<?php echo $i ?>"><br>
+		<h4> Item Number : <?php echo $row['ID']; ?></h4>
+		<h4> Processor : <?php echo $row['Processor']; ?></h4>
+		<h4> Number of Cores : <?php echo $row['Core_Count']; ?></h4>
+		<h4> Core Clock : <?php echo $row['Core_Clock']; ?></h4>
+		<h4> Boost Clock : <?php echo $row['Boost_Clock']; ?></h4>
+		<h4> TDP : <?php echo $row['TDP']; ?></h4>
+		<h4> Integrated Graphics : <?php echo $row['Integrated_Graphics']; ?></h4>
 		<h4> Price : <?php echo $row['Price'] = sprintf("$%.02f",$row['Price']); ?></h4>
 		<h4> Quantity : <?php echo $row['Quantity']; ?></h4>
 		<br><br>

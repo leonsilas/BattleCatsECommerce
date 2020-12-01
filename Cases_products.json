@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "6001"
+      },
+      "fields": {
+        "title": "FRACTIL DESIGN MESHIFY C (TTG)",
+        "price": 97.89,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6002"
+      },
+      "fields": {
+        "title": "LIAN LI PC-011 DYNAMIC",
+        "price": 139.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6003"
+      },
+      "fields": {
+        "title": "FRACTIL DESIGN MESHIFY C (SP)",
+        "price": 139.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6004"
+      },
+      "fields": {
+        "title": "ASUS TUF GAMING GT 301",
+        "price": 99.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6005"
+      },
+      "fields": {
+        "title": "CORSAIR 760T",
+        "price": 249.95,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6006"
+      },
+      "fields": {
+        "title": "CORSAIR OBSIDIAN 1000D",
+        "price": 519.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6007"
+      },
+      "fields": {
+        "title": "NANOXIA DEEP SILENCE 4",
+        "price": 109.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6008"
+      },
+      "fields": {
+        "title": "NZXT H210i",
+        "price": 197.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/ca8.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

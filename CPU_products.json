@@ -1,0 +1,356 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1001"
+      },
+      "fields": {
+        "title": "AMD RYZEN 3 3100",
+        "price": 114.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1002"
+      },
+      "fields": {
+        "title": "AMD RYZEN 3 3200G",
+        "price": 99.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1003"
+      },
+      "fields": {
+        "title": "AMD RYZEN 3 330X",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1004"
+      },
+      "fields": {
+        "title": "AMD RYZEN 5 3400G",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1005"
+      },
+      "fields": {
+        "title": "AMD RYZEN 5 3600",
+        "price": 189.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1006"
+      },
+      "fields": {
+        "title": "AMD RYZEN 5 3600X",
+        "price": 199.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1007"
+      },
+      "fields": {
+        "title": "AMD RYZEN 5 3600XT",
+        "price": 219.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1008"
+      },
+      "fields": {
+        "title": "AMD RYZEN 7 3700X",
+        "price": 279.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1009"
+      },
+      "fields": {
+        "title": "AMD RYZEN 7 3800X",
+        "price": 319.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+	{
+      "sys": {
+        "id": "1010"
+      },
+      "fields": {
+        "title": "AMD RYZEN 7 3800XT",
+        "price": 329.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1011"
+      },
+      "fields": {
+        "title": "AMD RYZEN 9 3900X",
+        "price": 399.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1012"
+      },
+      "fields": {
+        "title": "AMD RYZEN 9 3900XT",
+        "price": 429.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1013"
+      },
+      "fields": {
+        "title": "AMD RYZEN 9 3950X",
+        "price": 679.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU1_13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1014"
+      },
+      "fields": {
+        "title": "INTEL CORE i3-9100F",
+        "price": 69.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1015"
+      },
+      "fields": {
+        "title": "INTEL CORE i5-9600",
+        "price": 250.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1016"
+      },
+      "fields": {
+        "title": "INTEL CORE i7-9700F",
+        "price": 259.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1017"
+      },
+      "fields": {
+        "title": "INTEL CORE i9-9900",
+        "price": 379.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1018"
+      },
+      "fields": {
+        "title": "INTEL CORE i9-9900KS",
+        "price": 524.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+	{
+      "sys": {
+        "id": "1019"
+      },
+      "fields": {
+        "title": "INTEL CORE i3-10100",
+        "price": 99.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1020"
+      },
+      "fields": {
+        "title": "INTEL CORE i5-10600K",
+        "price": 296.76,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1021"
+      },
+      "fields": {
+        "title": "INTEL CORE i7-10700K",
+        "price": 399.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1022"
+      },
+      "fields": {
+        "title": "INTEL CORE i9-10900K",
+        "price": 883.87,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/CPU14_22.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

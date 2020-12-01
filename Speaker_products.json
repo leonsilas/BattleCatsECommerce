@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "9001"
+      },
+      "fields": {
+        "title": "KILPSCH PROMEDIA 2.1",
+        "price": 134.44,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/sp1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9002"
+      },
+      "fields": {
+        "title": "LOGITECH Z623",
+        "price": 119.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/sp2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9003"
+      },
+      "fields": {
+        "title": "LOGITECH Z906",
+        "price": 299.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/sp3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9004"
+      },
+      "fields": {
+        "title": "LOGITECH Z625",
+        "price": 149.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/sp4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9005"
+      },
+      "fields": {
+        "title": "BOSE COMPANION 2 SERIES III)",
+        "price": 99.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/sp5.jpeg"
+            }
+          }
+        }
+      }
+    },
+	 {
+      "sys": {
+        "id": "9006"
+      },
+      "fields": {
+        "title": "AUDIO ENGINE A2+",
+        "price": 269.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/sp6.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

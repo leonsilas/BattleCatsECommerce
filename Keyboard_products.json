@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "8001"
+      },
+      "fields": {
+        "title": "CORSAIR VENGENCE K70",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8002"
+      },
+      "fields": {
+        "title": "LOGITECH G PRO",
+        "price": 229.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8003"
+      },
+      "fields": {
+        "title": "CORSAIR K68",
+        "price": 174.13,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8004"
+      },
+      "fields": {
+        "title": "CORSAIR STRAFE RGB",
+        "price": 149.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8005"
+      },
+      "fields": {
+        "title": "CORSAIR K70 RGB MK.2",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8006"
+      },
+      "fields": {
+        "title": "CORSAIR K70 RGB RAPIDFIRE",
+        "price": 299.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8007"
+      },
+      "fields": {
+        "title": "CORSAIR K95 RGB PLATINUM XT",
+        "price": 199.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8008"
+      },
+      "fields": {
+        "title": "STEELSERIES APEX 7 TKL",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/k8.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

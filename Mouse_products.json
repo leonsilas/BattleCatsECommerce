@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "10001"
+      },
+      "fields": {
+        "title": "LOGITECH G502 PROTEUS SPECTRUM",
+        "price": 87.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/Mouse1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10002"
+      },
+      "fields": {
+        "title": "LOGITECH G502 PROTEUS CORE",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mouse2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10003"
+      },
+      "fields": {
+        "title": "LOGITECH G502 HERO",
+        "price": 48.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mouse3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10004"
+      },
+      "fields": {
+        "title": "MIONIX NAOS 7000",
+        "price": 200.98,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mouse4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10005"
+      },
+      "fields": {
+        "title": "LOGITECH G PRO WIRELESS",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mouse5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10006"
+      },
+      "fields": {
+        "title": "LOGITECH G303 DAEDALUS APEX",
+        "price": 379.71,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mouse6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10007"
+      },
+      "fields": {
+        "title": "LOGITECH MX MASTER 3",
+        "price": 99.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mouse7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10008"
+      },
+      "fields": {
+        "title": "RAZOR BASILISK ULTIMATE",
+        "price": 159.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mouse8.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

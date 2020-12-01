@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "3001"
+      },
+      "fields": {
+        "title": "CORSAIR DOMINATOR PLATINUM RGB 32GB",
+        "price": 187.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3002"
+      },
+      "fields": {
+        "title": "G. SKILL TRIDANT Z NEO 32GB",
+        "price": 154.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3003"
+      },
+      "fields": {
+        "title": "TEAM T-FORCE NIGHT HAWLK LEGEND RGB 16GB",
+        "price": 159.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3004"
+      },
+      "fields": {
+        "title": "CRUCIAL BALLISTIX ELITE 16GB",
+        "price": 84.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3005"
+      },
+      "fields": {
+        "title": "CORSAIR VENGENCE RGB PRO 64GB",
+        "price": 209.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3006"
+      },
+      "fields": {
+        "title": "G SKILL TRIDANT Z RGB 64GB",
+        "price": 68.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3007"
+      },
+      "fields": {
+        "title": "TEAM EXTREME ARGB 16GB",
+        "price": 159.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3008"
+      },
+      "fields": {
+        "title": "G. SKILL TRIDANT Z ROYAL 32GB",
+        "price": 149.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/me8.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

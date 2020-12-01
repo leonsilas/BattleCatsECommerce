@@ -53,6 +53,18 @@ hr {
   color: rgb(100, 128, 172); 
 }
 
+/* PROUDCT PAGE INFORMATION BANNER */
+.product-info-banner {
+  background-color: rgb(204, 252, 255);
+  text-align: center;
+  margin-top: -21px;
+  margin-bottom: -22px;
+}
+
+.product-info-banner > h2 a {
+  text-decoration: none;
+}
+
 /* MAIN */
 .main {
   font-family: 'Square';
@@ -66,13 +78,20 @@ hr {
 }
 
 /* PRODUCT ICONS */
+.product-icons {
+  margin-top: -125px;
+  margin-left: -250px;
+  margin-right: -250px;
+}
+
 .product-icons > ul {
-  margin: 0 -2em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .product-icons > ul li {
   list-style-type: none;
-  display: inline-block;
   padding-top: 115px;
 }
 
@@ -81,21 +100,13 @@ hr {
   cursor: pointer;
 }
 
-figure img {
-  vertical-align: top;
-}
-
-figure figcaption {
-  padding-top: 30px;
-  text-align: center;
-}
-
 .product-icons > ul li img {
   max-height: 175px;
   margin-top: -20px;
 }
 
 .product-icons figcaption {
+  text-align: center;
   font-size: 22px;
   margin-top: -10px;
 }

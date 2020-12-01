@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "4001"
+      },
+      "fields": {
+        "title": "ADATA XPG SX8200 PRO",
+        "price": 134.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4002"
+      },
+      "fields": {
+        "title": "SAMSUNG 850 EVO-SERIES",
+        "price": 89.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4003"
+      },
+      "fields": {
+        "title": "SAMSUNG 970 EVO",
+        "price": 107.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4004"
+      },
+      "fields": {
+        "title": "SAMSUNG 850 EVO-SERIES",
+        "price": 278.89,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4005"
+      },
+      "fields": {
+        "title": "SAMSUNG 970 EVO PLUS",
+        "price": 119.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4006"
+      },
+      "fields": {
+        "title": "SAMSUNG 970 EVO PLUS",
+        "price": 119.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4007"
+      },
+      "fields": {
+        "title": "INLAND PREMIUM",
+        "price": 227.98,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4008"
+      },
+      "fields": {
+        "title": "SAMSUNG 850 PRO SERIES",
+        "price": 129.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st8.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4009"
+      },
+      "fields": {
+        "title": "SAMSUNG 860 EVO",
+        "price": 159.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st9.jpeg"
+            }
+          }
+        }
+      }
+    },
+	 {
+      "sys": {
+        "id": "4010"
+      },
+      "fields": {
+        "title": "SAMSUNG 970 PRO",
+        "price": 169.47,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st10.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4011"
+      },
+      "fields": {
+        "title": "SILICON POWER P34A80",
+        "price": 119.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st11.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4012"
+      },
+      "fields": {
+        "title": "TEAM GROUP T-FORCE CARDEA ZERO Z340",
+        "price": 139.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st12.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4013"
+      },
+      "fields": {
+        "title": "SEAGATE BARRACUDA",
+        "price": 84.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4014"
+      },
+      "fields": {
+        "title": "WESTERN DIGITAL BLACK",
+        "price": 149.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st14.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4015"
+      },
+      "fields": {
+        "title": "INTEL OPTANE 905P",
+        "price": 99.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/st15.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "2001"
+      },
+      "fields": {
+        "title": "ASROCK B450M PRO4",
+        "price": 82.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2002"
+      },
+      "fields": {
+        "title": "ASUS TUF GAMMING B550M PLUS",
+        "price": 179.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2003"
+      },
+      "fields": {
+        "title": "GIGABYTE X570 AORUS MASTER",
+        "price": 329.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2004"
+      },
+      "fields": {
+        "title": "MSI B450 TOMAHAWLK MAX",
+        "price": 124.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2005"
+      },
+      "fields": {
+        "title": "ASUS PRIME X470-PRO",
+        "price": 114.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2006"
+      },
+      "fields": {
+        "title": "ASUS ROG MAXIMUS XI GENE",
+        "price": 299.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2007"
+      },
+      "fields": {
+        "title": "MSI MPG Z490G GAMING",
+        "price": 189.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2008"
+      },
+      "fields": {
+        "title": "ASROCK Z490 TAICHI",
+        "price": 389.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb8.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2009"
+      },
+      "fields": {
+        "title": "GIGABYTE Z390 DESIGNARE",
+        "price": 269.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb9.jpeg"
+            }
+          }
+        }
+      }
+    },
+	{
+      "sys": {
+        "id": "2010"
+      },
+      "fields": {
+        "title": "ASROCK Z390 PHANTOM GAMING",
+        "price": 466.00,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb10.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2011"
+      },
+      "fields": {
+        "title": "GIGABYTE Z390 GAMMING X",
+        "price": 119.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb11.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2012"
+      },
+      "fields": {
+        "title": "ASUS ROG MAXIMUS XII HERO",
+        "price": 299.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb12.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2013"
+      },
+      "fields": {
+        "title": "MSI MEG Z490 GODLIKE",
+        "price": 699.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mb13.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
